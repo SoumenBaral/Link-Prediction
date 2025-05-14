@@ -4,3 +4,5 @@ pandas
 scikit-learn
 matplotlib
 pyqt5
+seaborn
+plotly
